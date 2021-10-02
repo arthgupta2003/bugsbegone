@@ -3,6 +3,9 @@
   "description": "Improve productivity, with the help of a virtual mom!",
   "version": "1.0",
   "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
   "browser_action": {
       "default_popup": "index.html"
   },
