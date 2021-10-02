@@ -1,1 +1,6 @@
-
+{
+  "name": "Your Mum"
+  "description": "Improve productivity, with the help of a virtual mom!"
+  "version": "1.0"
+  "manifest_version": 3
+}
